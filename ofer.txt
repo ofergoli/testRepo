@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-test a c
-=======
 test
-<<<<<<< HEAD
-
-a
-=======
->>>>>>> parent of 760c852... commit b
->>>>>>> parent of 2b481d4... test
