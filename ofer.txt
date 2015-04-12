@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test a c
+=======
+test
+>>>>>>> parent of 760c852... commit b
