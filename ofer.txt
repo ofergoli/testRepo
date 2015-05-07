@@ -1,6 +1,12 @@
 test
 hello
 
+<<<<<<< HEAD
 
 
 dev check
+=======
+oferoferofer
+
+(:
+>>>>>>> development
