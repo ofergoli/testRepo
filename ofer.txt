@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 a
-
-=======
-ab
->>>>>>> development
