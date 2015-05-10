@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-master check
-=======
 a
->>>>>>> development
+
